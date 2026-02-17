@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Henrique!
+🎓 Estudante de Ciência da Computação | Web Designer | Dev Full-Stack
 
-<!--
-**HenriqueAntony07/HenriqueAntony07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tech stack
+✔ HTML • CSS • JavaScript • TypeScript  
+✔ React • Node.js • Git • Docker
 
-Here are some ideas to get you started:
+## 💼 Projetos em destaque
+### 📌 [portfolio](https://github.com/HenriqueAntony07/portfolio)  
+📝 Meu portfolio pessoal — front end moderno com TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 [Calculadora_testeunitario](https://github.com/HenriqueAntony07/Calculadora_testeunitario)  
+🧪 Projeto de testes unitários em Java.
+
+## 📫 Vamos nos conectar
+🔗 LinkedIn: https://linkedin.com/in/henrique-antony-8574a3171  
+📸 Instagram: https://instagram.com/henriqueantonyps
