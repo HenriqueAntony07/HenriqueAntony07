@@ -37,21 +37,21 @@ Experiência sólida em desenvolvimento frontend moderno com React e Next.js.
 ### 🔗 Pulse — Sex Shop E-commerce  
 Desenvolvido com WordPress e WooCommerce com design personalizado e funcionalidades avançadas para melhor experiência de compra.
 
-➡️ https://github.com/HenriqueAntony07/pulse-sex-shop
+➡️ https://pulsesexshop.com.br
 
 ---
 
 ### 🔗 Estilo Domum — Loja Online  
 E-commerce com layout responsivo premium, navegação intuitiva, filtros avançados e aumento de conversão.
 
-➡️ https://github.com/HenriqueAntony07/estilo-domum
+➡️ https://estilodomum.com.br
 
 ---
 
 ### 🔗 Make Mais — E-commerce B2B  
 Plataforma B2B com foco em performance, usabilidade e experiência do usuário.
 
-➡️ https://github.com/HenriqueAntony07/make-mais
+➡️ https://produtosmakemais.com.br/novo
 
 ---
 
