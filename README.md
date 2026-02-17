@@ -60,7 +60,7 @@ Plataforma B2B com foco em performance, usabilidade e experiência do usuário.
 <p align="center">
   <a href="https://www.linkedin.com/in/henrique-antony-8574a3171">LinkedIn</a> • 
   <a href="https://www.instagram.com/henriqueantonyps">Instagram</a> • 
-  <a href="mailto:henriqueantonydev@gmail.com">Email</a>
+  <a href="mailto:henriqueantonydev@gmail.com">Email</a>  • 
   <a href="https://api.whatsapp.com/send/?phone=5548999362572&text=Ol%C3%A1%21%3A+&type=phone_number&app_absent=0">Whats-app</a>
 </p>
 
