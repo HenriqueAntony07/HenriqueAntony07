@@ -51,7 +51,7 @@ E-commerce com layout responsivo premium, navegação intuitiva, filtros avança
 ### 🔗 Make Mais — E-commerce B2B  
 Plataforma B2B com foco em performance, usabilidade e experiência do usuário.
 
-➡️ https://produtosmakemais.com.br/novo
+➡️ https://produtosmakemais.com.br/teste
 
 ---
 
