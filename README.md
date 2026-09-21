@@ -72,7 +72,7 @@ Desenvolvo aplicações web modernas com foco em **experiência do usuário e re
   <a href="https://www.linkedin.com/in/henrique-antony-41438b420/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/henriqueantonyps">
+  <a href="https://www.instagram.com/henrique_webdesigner/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:henriqueantonydev@gmail.com">
